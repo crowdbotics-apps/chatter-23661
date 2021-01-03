@@ -48,6 +48,11 @@ INSTALLED_APPS = [
     "django.contrib.sites",
     "chat",
     "chat_user_profile",
+    "taxi_profile",
+    "booking",
+    "location",
+    "vehicle",
+    "wallet",
 ]
 LOCAL_APPS = [
     "home",
